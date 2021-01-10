@@ -98,7 +98,10 @@ Tools and resources to consder leveraging to make Impact Management easier
 *In-app Guidance: https://releasenotes.docs.salesforce.com/en-us/summer20/release-notes/rn_customhelp_builder.htm
 
 ### Project Team Accomplishments
-Delevoped 2 year Goals, Challenges and 3 sub-teams to tackle the varioues pieces to help teach Impact Management more broadly accross the sector.
+[01/04/2020-02/01/2020]
+* A few folks in the sprint group have been working between meetings to continue the good work that the larger group started, namely, focusing in on a lightweight solution that will help organizations begin measuring the initial outcomes of their programs. We have opted to focus on small-to-medium direct service nonprofits with limited impact management infrastructure, as the theoretical customer. Over the next few weeks, we'll be conducting interviews with nonprofits that fit this profile to learn more about their approach to evaluation and impact. We have translated the interview questions into a survey as well, to which you can direct folks if you think they'd fit our current target organizations. We'll share the survey in a separate post, which you can share: https://docs.google.com/forms/d/e/1FAIpQLSeU0Z2CXGIRbFqxnLzhQn3HtxTnJqm0ZcAf1crj2iBPgWq98w/viewform  
+[Sprint 2020]
+* Delevoped 2 year Goals, Challenges and 3 sub-teams to tackle the varioues pieces to help teach Impact Management more broadly accross the sector.
 
 
 ### Future Contributions (AKA what were you unable to finish at the Sprint)
